@@ -1,6 +1,6 @@
 {
-  "name": "vue-temp",
-  "displayName": "Aaron-zon",
+  "name": "vue3-temp",
+  "displayName": "vue3-temp",
   "description": "vue3初始化模板",
   "version": "0.0.1",
   "scripts": {
@@ -23,8 +23,9 @@
   "devDependencies": {
     "@vscode/vsce": "^2.21.1"
   },
+  "publisher": "Aaron-zon",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Aaron-zon/vue3-temp"
   }
 }
