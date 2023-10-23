@@ -1,0 +1,20 @@
+{
+    "Vue3 init Template": {
+		"prefix": "vue3",
+		"body": [
+			"<script setup>",
+			"",
+			"</script>",
+			"",			
+			"<template>",
+			"",
+			"</template>",
+			"",
+			"<style lang=\"scss\" scoped>",
+			"",
+			"</style>",
+		],
+		"descripttion": "Initialize Vue3."
+	}
+
+}
